@@ -1,14 +1,14 @@
 ##Madagascar
-## population
+## population 25.57 million
 
 
-## capital
+## capital Antananarivo
 
  
-## official language
+## official language Malagasy and French
 
 
-## interesting trivia
+## interesting trivia Only place in the world to find the Panther Chameleon
 
 
 
