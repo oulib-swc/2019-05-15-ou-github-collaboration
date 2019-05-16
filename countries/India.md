@@ -1,14 +1,14 @@
 ##India
-## population
+## population 1.3669
 
 
-## capital
+## capital India
 
  
-## official language
+## official language English/Hindi
 
 
-## interesting trivia
+## interesting trivia List is too long.
 
 
 
