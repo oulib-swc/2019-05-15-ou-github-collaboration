@@ -1,14 +1,14 @@
 ##Netherlands
-## population
+## population 17,000,000
 
 
-## capital
+## capital Amsterdam
 
  
-## official language
+## official language Dutch 
 
 
-## interesting trivia
+## interesting trivia The dutch love the color orange and wearing wooden shoes
 
 
 
