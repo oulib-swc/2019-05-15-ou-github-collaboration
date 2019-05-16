@@ -1,6 +1,6 @@
 ##Turkey
 ## population
-The population is 82003,882 as of 2018 estimates.
+The population is 82,003,882 as of 2018 estimates.
 
 ## capital
 The capital is Ankara.
