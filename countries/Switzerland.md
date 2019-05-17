@@ -1,14 +1,13 @@
 ##Switzerland
-## population
+Population: Exceeds 8.5 Million
 
 
-## capital
+Capital: Zurich
 
  
-## official language
+Official language's:German, French, Italian, Romansh
 
-
-## interesting trivia
+Interesting trivia:The Swiss are the world's largest consumers of chocolate.
 
 
 
